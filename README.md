@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>👋 Hi there! Welcome to my GitHub Profile</h1>
+  <h1>👋 Hi there! Welcome to my GitHub Profile
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kyzryzz;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
+</h1>
 </div>
 
 ![Demo GIF](https://raw.githubusercontent.com/kyzryzz/kyzryzz/main/media.gif)  
