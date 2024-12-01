@@ -22,7 +22,11 @@
 ---
 
 ### 🚀 My Programming Skills  
-    
+
+- **JavaScript** ![70%](https://progress-bar.dev/70/?title=progress)
+- **Python** ![85%](https://progress-bar.dev/85/?title=progress)
+- **HTML** ![90%](https://progress-bar.dev/90/?title=progress)
+
 <div align="center">
   <table>
     <tr>
