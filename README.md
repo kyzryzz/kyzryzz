@@ -76,12 +76,6 @@
 
 ---
 
-## 🛠️ My Skill
-
-- **⚡ Bot:** [JavaScript].  
-- **💻 Website:** [Html].  
-- **📈 Gaming:** [MLBB].  
-
 ## 🌐 Socmed
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyzryzz) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q) [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://kyzryzz.t.me) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyz_in_here) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/always-kyzx) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.kyzuuryz.xyz)  
