@@ -23,9 +23,9 @@
 
 ### 🚀 My Programming Skills  
 
-- **JavaScript** ![70%](https://progress-bar.dev/70/?title=progress)
-- **Python** ![85%](https://progress-bar.dev/85/?title=progress)
-- **HTML** ![90%](https://progress-bar.dev/90/?title=progress)
+[![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellowgreen?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge)](#)
+[![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge)](#)
 
 <div align="center">
   <table>
