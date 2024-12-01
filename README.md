@@ -63,7 +63,7 @@
 
 ### 📞 Contact Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285921655444) [![Telegram](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://kyzryzz.t.me) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=kyzsiapanjr@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285921655444) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://kyzryzz.t.me) [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=kyzsiapanjr@gmail.com) 
 
 ---
 
