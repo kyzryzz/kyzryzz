@@ -3,12 +3,12 @@
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
-![Header Banner](https://via.placeholder.com/1200x400?text=Kyzryzz+Hayanasi)  
+![Header Banner](https://via.placeholder.com/1200x400?text=https://telegra.ph/file/da63dc919f2260000ea97.jpg)  
 
 ---
 
 ## 📖 Project About
-**Furina-AI** adalah [multidevice whatsapp bot that runs by using Nodejs].  
+**Furina-AI** is [multidevice whatsapp bot that runs by using Nodejs].  
 
 - 🚀 **Command**: this bot [easily to use].  
 - 🛠️ **Size**: [light size].  
