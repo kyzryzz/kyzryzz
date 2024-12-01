@@ -3,7 +3,7 @@
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
-![Header Banner](https://via.placeholder.com/1200x400?text=Kyzryzz Hayanasi)  
+![Header Banner](https://via.placeholder.com/1200x400?text=Kyzryzz+Hayanasi)  
 
 ---
 
