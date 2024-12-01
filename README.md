@@ -3,7 +3,7 @@
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
-![Header Banner](https://files.catbox.moe/yf9r5y.mp4)  
+![Demo GIF](https://files.catbox.moe/yf9r5y.mp4)  
 
 ---
 
