@@ -27,33 +27,6 @@
 [![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge)](#)
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>HTML</b></td>
-      <td>
-         k
-      </td>
-    </tr>
-    <tr>
-      <td><b>CSS</b></td>
-      <td>
-        <img src="https://progress-bar.dev/10?title=CSS&color=FF4500" alt="CSS 10%" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>JavaScript</b></td>
-      <td>
-        <img src="https://progress-bar.dev/50?title=JavaScript&color=FFD700" alt="JavaScript 50%" />
-        <div class="ui-widgets">
-            <div class="ui-values">85%</div>
-            <div class="ui-labels">Java</div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 📊 Stats
