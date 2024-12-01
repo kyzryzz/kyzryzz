@@ -28,13 +28,11 @@
     <tr>
       <td><b>HTML</b></td>
       <td>
-        <img 
-  <svg width="185" height="185" viewBox="-23.125 -23.125 231.25 231.25" version="1.1" xmlns="http://www.w3.org/2000/svg" style="transform:rotate(-90deg)">
+        <svg width="185" height="185" viewBox="-23.125 -23.125 231.25 231.25" version="1.1" xmlns="http://www.w3.org/2000/svg" style="transform:rotate(-90deg)">
     <circle r="82.5" cx="92.5" cy="92.5" fill="transparent" stroke="#000000" stroke-width="16px" stroke-dasharray="518.1px" stroke-dashoffset="0"></circle>
     <circle r="82.5" cx="92.5" cy="92.5" stroke="#ffff00" stroke-width="16px" stroke-linecap="round" stroke-dashoffset="311px" fill="transparent" stroke-dasharray="518.1px"></circle>
     <text x="49px" y="108px" fill="#2e2e2e" font-size="52px" font-weight="bold" style="transform:rotate(90deg) translate(0px, -181px)">40%</text>
   </svg>
-    src="https://progress-bar.dev/40?title=HTML&color=00FF00" alt="HTML 40%" />
       </td>
     </tr>
     <tr>
