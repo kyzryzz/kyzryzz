@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there! Welcome to my GitHub Profile</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kyzryzz;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kyzryzz;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
 </div>
 
 ![Demo GIF](https://raw.githubusercontent.com/kyzryzz/kyzryzz/main/media.gif)  
@@ -28,11 +28,7 @@
     <tr>
       <td><b>HTML</b></td>
       <td>
-        <svg width="185" height="185" viewBox="-23.125 -23.125 231.25 231.25" version="1.1" xmlns="http://www.w3.org/2000/svg" style="transform:rotate(-90deg)">
-    <circle r="82.5" cx="92.5" cy="92.5" fill="transparent" stroke="#000000" stroke-width="16px" stroke-dasharray="518.1px" stroke-dashoffset="0"></circle>
-    <circle r="82.5" cx="92.5" cy="92.5" stroke="#ffff00" stroke-width="16px" stroke-linecap="round" stroke-dashoffset="311px" fill="transparent" stroke-dasharray="518.1px"></circle>
-    <text x="49px" y="108px" fill="#2e2e2e" font-size="52px" font-weight="bold" style="transform:rotate(90deg) translate(0px, -181px)">40%</text>
-  </svg>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript 40%"  />
       </td>
     </tr>
     <tr>
