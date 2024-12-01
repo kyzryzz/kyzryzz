@@ -42,7 +42,7 @@ Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 My Social Media Account:  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyzryzz)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)  
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://kyzryzz.t.me)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyz_in_here)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/always-kyzx)  
