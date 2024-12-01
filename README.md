@@ -60,7 +60,9 @@
 
 ### 👁‍🗨 Visitor
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyzryzz%2Fkyzryzz&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+<p align="center">
+  <img src="https://moe-counter.net/count/kyzryzz?theme=moebooru" alt="Visitor Counter" />
+</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/kyzryzz/count.svg?"  />
