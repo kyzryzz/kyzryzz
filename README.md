@@ -3,7 +3,7 @@
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
-![Demo GIF](https://raw.githubusercontent.com/kyzryzz/kyzryzz/main/assets/media.gif)  
+![Demo GIF](https://raw.githubusercontent.com/kyzryzz/kyzryzz/main/media.gif)  
 
 ---
 
