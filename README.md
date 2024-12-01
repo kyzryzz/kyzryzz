@@ -23,12 +23,80 @@
 
 ### 🚀 My Programming Skills  
 
+<style>
+        /* Apply css properties to h1 element */
+        h1 {
+            text-align: center;
+        }
+ 
+        /* Create a container using CSS properties */
+        .container {
+            top: 30%;
+            left: 50%;
+            position: absolute;
+            text-align: center;
+            transform: translate(-50%, -50%);
+        }
+ 
+        /* Apply CSS properties to ui-widgets class */
+        .ui-widgets {
+            position: relative;
+            display: inline-block;
+            width: 10rem;
+            height: 10rem;
+            border-radius: 9rem;
+            margin: 1.5rem;
+            border: 1.2rem solid palegreen;
+            box-shadow: inset 0 0 7px grey;
+            border-left-color: palegreen;
+            border-top-color: chartreuse;
+            border-right-color: darkgreen;
+            border-bottom-color: white;
+            text-align: center;
+            box-sizing: border-box;
+        }
+ 
+        /*  Apply css properties to the second 
+            child of ui-widgets class */
+        .ui-widgets:nth-child(2) {
+            border-top-color: chartreuse;
+            border-right-color: white;
+            border-left-color: palegreen;
+            border-bottom-color: white;
+        }
+ 
+        /*  Apply css properties to ui-widgets class 
+            and ui-values class*/
+        .ui-widgets .ui-values {
+            top: 40px;
+            position: absolute;
+            left: 10px;
+            right: 0;
+            font-weight: 700;
+            font-size: 2.0rem;
+ 
+        }
+ 
+        /*  Apply css properties to ui-widgets 
+            class and ui-labels class*/
+        .ui-widgets .ui-labels {
+ 
+            left: 0;
+            bottom: -16px;
+            text-shadow: 0 0 4px grey;
+            color: black;
+            position: absolute;
+            width: 100%;
+            font-size: 16px;
+        }
+    </style>
+    
 <div align="center">
   <table>
     <tr>
       <td><b>HTML</b></td>
       <td>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
+         k
       </td>
     </tr>
     <tr>
@@ -41,6 +109,10 @@
       <td><b>JavaScript</b></td>
       <td>
         <img src="https://progress-bar.dev/50?title=JavaScript&color=FFD700" alt="JavaScript 50%" />
+        <div class="ui-widgets">
+            <div class="ui-values">85%</div>
+            <div class="ui-labels">Java</div>
+        </div>
       </td>
     </tr>
   </table>
