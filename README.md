@@ -1,17 +1,50 @@
 # 🌟 Kyzryzz
 
-<svg viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
-  <text x="500" y="30" font-size="20" fill="black">
-    <animate attributeName="x" from="500" to="-500" dur="10s" repeatCount="indefinite" />
-    Selamat Datang di Proyek Kami!
-  </text>
-</svg>
-
-
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
 ![Demo GIF](https://raw.githubusercontent.com/kyzryzz/kyzryzz/main/media.gif)  
+
+---
+
+### 🧑‍💻 About Me  
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
+- 🌟 **Master’s Student** in Computer Science  
+- 💡 **Passionate Developer** focusing on **Web Development** and **UI/UX Design**  
+- 🔐 Exploring **Network Security** and **JavaScript Frameworks**  
+- 🧩 Enthusiastic about **Problem Solving** and **Innovative Thinking**  
+- 🎨 Lover of clean, intuitive designs that solve real-world problems  
+- 📍 From: **Padang, Indonesia**  
+- 🎉 Fun Fact: I enjoy creating **bots** and solving heuristic challenges!  
+
+---
+
+### 🚀 My Programming Skills  
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>HTML</b></td>
+      <td>
+        <img src="https://progress-bar.dev/40?title=HTML&color=00FF00" alt="HTML 40%" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+      <td>
+        <img src="https://progress-bar.dev/10?title=CSS&color=FF4500" alt="CSS 10%" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td>
+        <img src="https://progress-bar.dev/50?title=JavaScript&color=FFD700" alt="JavaScript 50%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
