@@ -1,6 +1,12 @@
 # 🌟 Kyzryzz
 
-<marquee behavior="scroll" direction="left">Kyzryzz Github Profile!</marquee>
+<svg viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="500" y="30" font-size="20" fill="black">
+    <animate attributeName="x" from="500" to="-500" dur="10s" repeatCount="indefinite" />
+    Selamat Datang di Proyek Kami!
+  </text>
+</svg>
+
 
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
