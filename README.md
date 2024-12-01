@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there! Welcome to my GitHub Profile</h1>
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kyzryzz;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kyzryzz;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
 </div>
 
 ![Demo GIF](https://raw.githubusercontent.com/kyzryzz/kyzryzz/main/media.gif)  
@@ -28,7 +28,7 @@
     <tr>
       <td><b>HTML</b></td>
       <td>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript 40%"  />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
       </td>
     </tr>
     <tr>
