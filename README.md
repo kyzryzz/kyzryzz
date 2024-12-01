@@ -25,7 +25,7 @@ Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
 ## 📸 Project
 
-![Demo GIF atau Screenshot](https://via.placeholder.com/800x400?text=kyzzr+project)  
+![Demo GIF atau Screenshot](https://telegra.ph/file/da63dc919f2260000ea97.jpg)  
 
 🔗 **Live Demo**: [Coba Sekarang](https://chat.whatsapp.com/JXYH7oHexo63nBHp1OWQAd)  
 
