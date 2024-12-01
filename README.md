@@ -25,8 +25,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-60%25-green?style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/Python-20%25-red?style=for-the-badge)](#)
-[![HTML](https://img.shields.io/badge/HTML-40%25-yelllow?style=for-the-badge)](#)
-[![CSS](https://img.shields.io/badge/CSS-30%25-orange?style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/CSS-40%25-orange?style=for-the-badge)](#)
 [![Java](https://img.shields.io/badge/Java-10%25-red?style=for-the-badge)](#)
 
 ---
