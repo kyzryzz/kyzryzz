@@ -60,10 +60,6 @@
 
 ### 👁‍🗨 Visitor
 
-<p align="center">
-  <img src="https://moe-counter.net/count/kyzryzz?theme=moebooru" alt="Visitor Counter" />
-</p>
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kyzryzz/count.svg?"  />
+  <img src="https://count.getloli.com/@kyzryzz?name=kyzryzz&theme=kyun&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
 </div>
