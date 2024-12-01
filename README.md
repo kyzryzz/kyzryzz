@@ -11,7 +11,6 @@
 }
 </style>
 
-
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
