@@ -16,7 +16,7 @@
 - 🔐 Exploring **Network Security** and **JavaScript Frameworks**  
 - 🧩 Enthusiastic about **Problem Solving** and **Innovative Thinking**  
 - 🎨 Lover of clean, intuitive designs that solve real-world problems  
-- 📍 From: **Padang, Indonesia**  
+- 📍 From: **Palembang, Indonesia**  
 - 🎉 Fun Fact: I enjoy creating **bots** and solving heuristic challenges!  
 
 ---
