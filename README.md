@@ -1,5 +1,17 @@
 # 🌟 Kyzryzz
 
+<div style="overflow: hidden; white-space: nowrap;">
+  <p style="display: inline-block; animation: marquee 10s linear infinite;">Kyzryzz Dev!</p>
+</div>
+
+<style>
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
+
 **Anu:**  
 Hi there! i'm Kyzryzz, call me as ky. i'm a beginner programmer and developer
 
